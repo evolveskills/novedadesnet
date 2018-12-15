@@ -1,12 +1,7 @@
-
 {
-  "uid": "urn:uuid:NovedadesenNetflix151218",
-  "updateDate": "2018-12-15T19:00:00.0Z",
-  "titleText": "Novedades en Netflix",
-  "mainText": "Safe,Jason Statham se enfrenta a las triadas chinas, la mafia rusa y la policía de Nueva York para proteger a una niña que tiene memorizado un código secreto.
-  Premonición, Anthony Hopkins y Colin Farrell, un hombre con poderes psíquicos trabajará con el FBI para encontrar a un asesino en serie. 
-  Desenterrando Sad Hill, sobre la reconstrucción del cementerio construido en España hace 50 años para la secuencia final de la película "El bueno, el feo y el malo". 
-  High Strung, un violinista de hip hop callejero y una estudiante de bailarina se conocen e intentaran ganar una competición de baile. 
-  FREDI, es un robot amigable y perdido que necesita la ayuda de unos adolescentes para encontrar a su creadora.",
-  }
-  
+  "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+  "updateDate": "2016-05-23T00:00:00.0Z",
+  "titleText": "Amazon Developer Blog, week in review May 23rd",
+  "mainText": "Meet Echosim. A new online community tool for developers that simulates the look and feel of an Amazon Echo.",
+  "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+}
